@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Build a legacy that lasts" src="./assets/meetelayne_cover.jpeg" width="100%" />
+  <img alt="Build a legacy that lasts" src="../assets/meetelayne_cover.jpeg" width="100%" />
 </p>
 
 <h3 align="center">Loss is hard. Estate settlement should not be.</h3>
